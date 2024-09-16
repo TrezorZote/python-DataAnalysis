@@ -27,9 +27,9 @@ print(f"Highest value in the Age column: {max_age}")
 # Print the median
 print(f"Median of the column: {median_value}")
 # Print the row with max
-print(f"row with max of the column: {max_row}")
+print(f"row with max vitamin E concentration of the column: {max_row}")
 # Print the row with max
-print(f"row with min of the column: {min_row}")
+print(f"row with min vitamin E concentration of the column: {min_row}")
 
 summary = data.describe()
 print(summary)
